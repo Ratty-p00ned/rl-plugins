@@ -1,2 +1,2 @@
 # Example
-An example greeter plugin
+Changes cox prayers hopefully
